@@ -73,6 +73,7 @@
         position: relative;
         top: -37px;
         right: 30px;
+        height: 0;
     }
 
     .input_todo   .add_input {
